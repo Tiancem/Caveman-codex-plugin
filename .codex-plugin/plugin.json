@@ -1,0 +1,13 @@
+{
+  "name": "caveman",
+  "version": "1.0.0",
+  "description": "Ultra-compressed communication mode: cuts output tokens by talking like caveman. Auto-activates on session start; switch levels with /caveman.",
+  "author": {
+    "name": "Christian Mansilla"
+  },
+  "homepage": "https://github.com/JuliusBrussee/caveman",
+  "repository": "https://github.com/JuliusBrussee/caveman",
+  "license": "MIT",
+  "keywords": ["tokens", "caveman", "prompt-engineering"],
+  "skills": "./skills/"
+}
