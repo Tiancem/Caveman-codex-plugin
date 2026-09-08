@@ -15,7 +15,7 @@ hooks/caveman-activate.js    inyecta SKILL.md como additionalContext
 
 1. Clonar:
    ```bash
-   git clone <este repo> ~/caveman-codex
+   git clone https://github.com/Tiancem/Caveman-codex-plugin.git ~/Caveman-codex-plugin
    ```
 2. Registrar el marketplace (una vez):
    ```bash
